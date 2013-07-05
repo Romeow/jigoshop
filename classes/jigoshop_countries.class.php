@@ -492,7 +492,7 @@ class jigoshop_countries extends Jigoshop_Base {
 			'AUV'            => 'Auvergne',
 			'BAS'            => 'Basse-Normandie [Lower Normandy]',
 			'BOU'            => 'Bourgogne [Burgundy]',
-			'BRE'            => 'Bretagne [Brittany]',
+			'BZH'            => 'Bretagne [Brittany]',
 			'CEN'            => 'Centre',
 			'CHA'            => 'Champagne - Ardenne',
 			'COR'            => 'Corse',
